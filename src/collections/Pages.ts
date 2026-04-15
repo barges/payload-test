@@ -1,3 +1,5 @@
+import { AdvisorGrid } from "@/blocks/AdvisorGrid/config";
+
 // collections/Pages.ts
 export const Pages = {
     slug: 'pages',
