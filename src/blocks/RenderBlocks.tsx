@@ -15,7 +15,7 @@ const blockComponents = {
   cta: CallToActionBlock,
   formBlock: FormBlock,
   mediaBlock: MediaBlock,
-  advisorGrid: AdvisorGridComponent,
+  'advisor-grid': AdvisorGridComponent,
 }
 
 export const RenderBlocks: React.FC<{
