@@ -1,7 +1,7 @@
+import type { CollectionConfig } from 'payload'
 import { AdvisorGrid } from "@/blocks/AdvisorGrid/config";
 
-// collections/Pages.ts
-export const Pages = {
+export const Pages: CollectionConfig = {
     slug: 'pages',
     fields: [
       {
